@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Is it possible to solve the problem of centralization?"
+date:   2019-07-17 23:34:56 +0530
+icon: thumbs-o-up
+---
+
+Coming soon...

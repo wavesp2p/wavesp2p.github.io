@@ -1,0 +1,11 @@
+title: Decentralize the Waves
+
+baseurl: /
+sass: 
+    style: compressed
+
+exclude:
+- README.md
+
+include: 
+- _pages
